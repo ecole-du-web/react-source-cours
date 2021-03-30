@@ -1,0 +1,12 @@
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    font-size: 24px;
+}
+.nav-list li {
+    margin-right: 15px;
+}
+
+/* a.current {
+    background: salmon;
+} */

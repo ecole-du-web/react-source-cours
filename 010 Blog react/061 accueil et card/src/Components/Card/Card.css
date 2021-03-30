@@ -1,0 +1,20 @@
+.card {
+    max-width: 300px;
+    min-width: 300px;
+    padding: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    margin: 10px;
+    cursor: pointer;
+    min-height: 200px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.card p {
+    font-size: 18px;
+}
