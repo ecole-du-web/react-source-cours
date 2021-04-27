@@ -1,0 +1,14 @@
+.home-title {
+    font-size: 60px;
+    margin: 100px 0 40px;
+    text-align: center;
+}
+
+.container-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0px auto 0;
+}
